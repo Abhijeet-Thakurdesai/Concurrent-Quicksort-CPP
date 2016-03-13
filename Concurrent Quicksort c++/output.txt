@@ -1,0 +1,21 @@
+[abhi@ironman ~]$ g++ -std=c++0x abhi.cpp -lpthread
+[abhi@ironman ~]$ ./a.out
+
+Enter the size of array:5
+
+Enter the element:5
+
+Enter the element:4
+
+Enter the element:3
+
+Enter the element:2
+
+Enter the element:1
+
+array:  5       4       3       2       1
+ After sorting:
+array:  1       2       3       4       5
+
+[abhi@ironman ~]$ 
+
